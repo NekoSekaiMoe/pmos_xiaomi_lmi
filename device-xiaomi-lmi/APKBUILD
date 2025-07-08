@@ -16,6 +16,7 @@ depends="
 	msm-modem
 	pd-mapper
 	tqftpserv
+	qbootctl
 "
 makedepends="devicepkg-dev"
 source="
